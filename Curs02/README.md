@@ -1,0 +1,2 @@
+- Operatori
+- Structura conditionala IF
