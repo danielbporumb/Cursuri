@@ -1,2 +1,0 @@
-- Variabile
-- Tipuri de date
